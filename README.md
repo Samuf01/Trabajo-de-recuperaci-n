@@ -68,7 +68,4 @@ https://github.com/Samuf01/Trabajo-de-recuperaci-n/blob/559764a87a0b7999a5dd65ea
 
 Floyd, T. (2007, 25 octubre). Principios de circuitos eléctricos. PDF. Recuperado 7 de diciembre de 2021, de https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
 
-5. Video
-
-
 
