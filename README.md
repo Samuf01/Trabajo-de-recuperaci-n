@@ -2,7 +2,7 @@
 
 1. Objetivos 
 
- 1.1.	Objetivo General{
+ 1.1.	Objetivo General
 
 Construir una aplicacion mediante app inventor que permita calcular voltajes, corrientes y resistencias de circuitos en serie y paralelos, ademas de calcular directamente la ley de Ohm.
  
