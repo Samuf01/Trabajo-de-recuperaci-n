@@ -60,8 +60,15 @@ https://github.com/Samuf01/Trabajo-de-recuperaci-n/blob/559764a87a0b7999a5dd65ea
 
 3. Conclusiones
 
+-App Inventoe es una sitio donde el poder crear una aplicación lo simplifica de la forma adecuada, sin embargo se necesita conocimientos basicos sobre programación para poder desarrollar apps mas especializadas
 
-4. Recomendaciones
+-Las formulas nos permiten configurar la correcta programación de la app para poder lograr lo que se requiera en cada caso.
+
+4. Bibliografia
+
+Floyd, T. (2007, 25 octubre). Principios de circuitos eléctricos. PDF. Recuperado 7 de diciembre de 2021, de https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
+
+5. Video
 
 
-5. Bibliografia
+
