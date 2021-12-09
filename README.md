@@ -68,4 +68,15 @@ https://github.com/Samuf01/Trabajo-de-recuperaci-n/blob/559764a87a0b7999a5dd65ea
 
 Floyd, T. (2007, 25 octubre). Principios de circuitos eléctricos. PDF. Recuperado 7 de diciembre de 2021, de https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
 
+Arturo Mera Dorantes. (2018, 16 mayo). Crear una Aplicacion Android Sencilla con MIT App Inventor [Vídeo]. YouTube. https://www.youtube.com/watch?v=3BownSRSiAw
+
+App Inventor 2- Creando aplicacion con Formulas y calculoas matematicos | PARTE I. (2016, 12 marzo). [Vídeo]. YouTube. https://www.youtube.com/watch?v=7t-oi3_6__c
+
+Ing. Diego Meza M. (2018, 24 marzo). USO DE APP INVENTOR - TEXTBOX Y ECUACIONES MATEMATICAS [Vídeo]. YouTube. https://www.youtube.com/watch?v=yNj7gN4ELZ8
+
+5. Vídeo
+
+https://youtu.be/zG0XnFZRbxE
+
+
 
